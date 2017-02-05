@@ -12,7 +12,7 @@ return array(
 	//模块简介
 	'introduce' => '提供对模块进行二级域名绑定',
 	//模块介绍地址
-	'address' => 'http://www.ztbcms.com',
+	'address' => 'http://doc.ztbcms.com/module/domains/',
 	//模块作者
 	'author' => 'ztbcms',
 	//作者地址
